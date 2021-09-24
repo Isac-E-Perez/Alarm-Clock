@@ -17,7 +17,7 @@ Then let the user set his alarm. When the alarm equals the current time, a messa
 
 <img width="467" alt="Screen Shot 2021-09-24 at 4 45 16 PM" src="https://user-images.githubusercontent.com/89553126/134742979-d0adca5d-691b-4d74-acaf-41410e9fbcb3.png">
 
-This is possible becuase I set the variable to accept input of strings.
+This is possible because I set the variable to accept input of strings.
 
 <img width="159" alt="Screen Shot 2021-09-24 at 4 47 04 PM" src="https://user-images.githubusercontent.com/89553126/134743095-a5029f7d-8101-4936-9898-9c7b41784c3c.png">
  
