@@ -21,7 +21,7 @@ This is possible because I set the variable to accept input of strings.
 
 <img width="159" alt="Screen Shot 2021-09-24 at 4 47 04 PM" src="https://user-images.githubusercontent.com/89553126/134743095-a5029f7d-8101-4936-9898-9c7b41784c3c.png">
  
- I also set an exit and reset condition for the GUI application.
+In addition, I set an exit and reset condition for the GUI application.
  
  <img width="145" alt="Screen Shot 2021-09-24 at 4 49 26 PM" src="https://user-images.githubusercontent.com/89553126/134743240-a0f2b3d3-ceca-41cd-9809-5ca072cc643b.png">
  
