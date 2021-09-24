@@ -23,9 +23,15 @@ In addition, I set an exit and reset condition for the GUI application.
  
 Afterwards, I created the GUI (graphic user interface) so the user can interact with the code above.
 
+**Sets the title and dimensions of the UI application**
+
 <img width="562" alt="Screen Shot 2021-09-24 at 5 02 06 PM" src="https://user-images.githubusercontent.com/89553126/134744167-894eca90-1abb-4e1b-abea-de1908e5d7b5.png">
- 
+
+**Sets what would be written on the application as well as provides the area to place inputs in**
+
 <img width="436" alt="Screen Shot 2021-09-24 at 4 50 31 PM" src="https://user-images.githubusercontent.com/89553126/134743367-382f91c1-6148-47ea-bb55-7026b3275053.png">
+
+**Sets the buttons the user can press**
 
 <img width="358" alt="Screen Shot 2021-09-24 at 4 50 44 PM" src="https://user-images.githubusercontent.com/89553126/134743371-e0dea31f-e824-4884-a02e-7582c2ba01ec.png">
 
