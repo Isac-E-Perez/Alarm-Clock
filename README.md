@@ -5,7 +5,7 @@ For this project, I implemented an alarm clock using Python. I used the librarie
 
 ### Results:
 
-First, I create created the alarm loop. The loop will initially let the user know what the current time is.  
+First, I created the alarm loop. The loop will initially let the user know what the current time is.  
 
 <img width="874" alt="Screen Shot 2021-09-24 at 4 43 00 PM" src="https://user-images.githubusercontent.com/89553126/134742813-6b845659-c3c8-48f1-a810-43a2f0c5056c.png">
 
