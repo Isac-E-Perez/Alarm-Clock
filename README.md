@@ -13,7 +13,7 @@ Afterwards, I create created the alarm loop. The loop will first let the user kn
 
 <img width="874" alt="Screen Shot 2021-09-24 at 4 43 00 PM" src="https://user-images.githubusercontent.com/89553126/134742813-6b845659-c3c8-48f1-a810-43a2f0c5056c.png">
 
-Then let the user set his alarm.  
+Then let the user set his alarm. When the alarm equals the current time, a message will be displayed onto the terminal and a sound will be played.   
 
 <img width="467" alt="Screen Shot 2021-09-24 at 4 45 16 PM" src="https://user-images.githubusercontent.com/89553126/134742979-d0adca5d-691b-4d74-acaf-41410e9fbcb3.png">
 
@@ -25,8 +25,10 @@ This is possible becuase I set the variable to accept input of strings.
  
  <img width="145" alt="Screen Shot 2021-09-24 at 4 49 26 PM" src="https://user-images.githubusercontent.com/89553126/134743240-a0f2b3d3-ceca-41cd-9809-5ca072cc643b.png">
  
-Afterwards I created the GUI (graphic user interface) so the user can interact with the code above.
+Afterwards, I created the GUI (graphic user interface) so the user can interact with the code above.
 
+<img width="562" alt="Screen Shot 2021-09-24 at 5 02 06 PM" src="https://user-images.githubusercontent.com/89553126/134744167-894eca90-1abb-4e1b-abea-de1908e5d7b5.png">
+ 
 <img width="436" alt="Screen Shot 2021-09-24 at 4 50 31 PM" src="https://user-images.githubusercontent.com/89553126/134743367-382f91c1-6148-47ea-bb55-7026b3275053.png">
 
 <img width="358" alt="Screen Shot 2021-09-24 at 4 50 44 PM" src="https://user-images.githubusercontent.com/89553126/134743371-e0dea31f-e824-4884-a02e-7582c2ba01ec.png">
