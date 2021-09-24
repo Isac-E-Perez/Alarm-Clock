@@ -37,7 +37,7 @@ Afterwards, I created the GUI (graphic user interface) so the user can interact 
 
 Finally, I closed the mainloop which is the last command given to compile all the previous commands and displays the window as soon as the program is running.
 
-### Finished Project
+### Finished Project:
 
 <img width="296" alt="Screen Shot 2021-09-24 at 4 54 37 PM" src="https://user-images.githubusercontent.com/89553126/134743628-5cb42daf-9723-4f57-b567-e96cd419fbec.png">
 
